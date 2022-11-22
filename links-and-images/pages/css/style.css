@@ -9,3 +9,14 @@ body{
 .image{
     border-radius: 90%;
   }
+.flex-container {
+  display: flex;
+
+}
+
+.flex-container > li {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
